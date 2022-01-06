@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Looking for the job at the moment.
+Active learner of Python, Django, Docker, Git and so on.
 
 <!--
 **illeontev/illeontev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
