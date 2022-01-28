@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 Active learner of Python, Django and so on.
+
 Mathematic-programmer, Diploma with Honors.
+
 English level: Upper-intermediate.
 
 Email: illeontev@mail.ru
