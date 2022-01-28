@@ -6,7 +6,7 @@ Mathematic-programmer, Diploma with Honors.
 
 English level: Upper-intermediate.
 
-Udemy.com fan :)
+Big fan of udemy.com! Love to learn new things.
 
 Email: illeontev@mail.ru
 
