@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-Looking for the job at the moment.
-Active learner of Python, Django, Docker, Git and so on.
+Active learner of Python, Django and so on.
+Mathematic-programmer, Diploma with Honors.
+English level: Upper-intermediate.
+
+Email: illeontev@mail.ru
+
 
 <!--
 **illeontev/illeontev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
